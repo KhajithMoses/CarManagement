@@ -1,0 +1,1 @@
+public record CarSpecification(String model, int year, CarType type) {}
